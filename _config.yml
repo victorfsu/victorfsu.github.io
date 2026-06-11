@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Weifang Xu"
+  pronouns         : # example: "he/his"  
+  bio              : "ssisant Professor in the East Asian Colleage at Yonsei University"
+  location         : "Wonju, South Korea"
+  employer         : "Yonsei University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "weifangxu@yonsei.ac.kr" 
 
   # Academic websites
   academia         : # URL

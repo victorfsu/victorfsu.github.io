@@ -4,8 +4,6 @@ title: ""
 author_profile: true
 ---
 
-I am an Assistant Professor in the East Asian College at Yonsei University.
+I am an Assistant Professor in the East Asian College at Yonsei University and an international security scholar specializing in empirical research on interstate conflict and diplomacy. 
 
-My research examines the interplay between domestic politics and international relations, with a particular focus on U.S.–China competition, alliance politics, signaling, public opinion, and East Asian security.
-
-Methodologically, I employ survey experiments, computational social science methods, and machine learning techniques to study how political leaders use international diplomacy to achieve domestic and international political goals.
+Driven by this research agenda, I apply experimental and computational social science methods to examine the dynamics of conflict escalation and de-escalation, particularly within the context of U.S.-China great power competition.
